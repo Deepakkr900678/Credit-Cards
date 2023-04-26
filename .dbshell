@@ -1,0 +1,439 @@
+show databases
+use restapi
+show collection
+show collections
+db.users.find()
+db.users.find().pretty();
+show databases
+use restapi
+show collections
+db.users.find().pretty();
+show db
+show dbs
+use Deepak dbs
+show databases
+use Deepakdb
+db
+db.dropdatabase();
+show dbs
+use restapi db
+use restapi dbs
+use restapidb
+db
+db.droprestapi()
+db.dropDatabase();
+show dbs
+use api
+show collection
+show databases;
+db.dropapi();
+show collections
+use users
+db.dropdatabase();
+show collections
+db
+db.dropDatabase();
+use api;
+db.dropDatabase();
+show databases;
+use Deepak;
+db.dropDatabase();
+use node;
+db.dropDatabase();
+use restapi
+db.dropDatabase();
+use restapis
+db.dropDatabase();
+use test
+db.dropDatabase();
+show databases;
+show databases;
+db.createCollection('Student');
+show databases;
+use test;
+show collection;
+show Collection;
+show Collections
+clear
+show databases;
+db.createCollection("emp")
+show collections
+db.emp.insert({name:"Deepak",salary:"1000000",dept:"IT"})
+db.emp.find();
+db.emp.find().preety();
+db.emp.find().pretty();
+db.dropDatabase("test");
+db;
+db.dropDatabase();
+show databases;
+;
+show databases;
+show Collections;
+show collections;
+db. collection. deleteOne()
+db.createCollection('emp')
+db. collection. deleteOne()
+db.collection.deleteOne()
+db;
+db.collection.deleteOne()
+show databases;
+show collections
+show databases;
+use USERDBMONGOOSE
+db.dropDatabase();
+show databases;
+use node;
+db.dropDatabase;
+db.dropDatabase();
+show databases;
+use restapi;
+db.dropDatabase;
+db.dropDatabase();
+show databases;
+use test;
+db.dropDatabase();
+show databases;
+show databases
+use test
+show collections
+db.users.find().pretty()
+show databases;
+use test;
+show collections
+db
+db.dropdatabase();
+db.dropDatabase();
+show databases;
+use restapi
+db
+db.dropDatabase();
+show databases;
+use TestDB;
+show databases;
+use TestDB;
+db
+db.createCollection('Student');
+show databases;
+db;
+show collections
+db.createCollection('Emp');
+show collections
+db.Emp.insert({name:"Ajeet",salary:"100000",dept:"IT"});
+db.emp.find();
+db.Emp.find();
+db.Emp.find().pretty();
+db.Emp.insert([{name:"Ajeet",salary:"100000",dept:"IT"}, {name:"Kavita",salary:"500000",dept:"IT",Join_date:"2022/01/01"}, {name:"Shruti",salary:"700000",dept:"IT",Join_date:"2022/12/12"}]);
+db.Emp.find().pretty();
+db.Emp.insertMany([{name:"Ajeet",salary:"100000",dept:"IT"}, {name:"Kavita",salary:"500000",dept:"IT",Join_date:"2022/01/01"}, {name:"Shruti",salary:"700000",dept:"IT",Join_date:"2022/12/12"}]);
+db.Emp.find({name:"Kavita"}).pretty();
+db.Emp.find().pretty();
+db.Emp.find().limit(2).pretty();
+db.Emp.find({name:Kavita},{name:1}).pretty();
+db.Emp.find({name:"Kavita"},{name:1}).pretty();
+db.Emp.find({name:"Kavita"},{name:1,id:0}).pretty();
+db.Emp.find({name:"Kavita"},{name:1},{id:0}).pretty();
+db.Emp.find({name:"Kavita"},{name:1},{_id:0}).pretty();
+db.Emp.find({name:"Kavita"},{name:1,_id:0}).pretty();
+db.Emp.find().count();
+db.Emp.find().skip(5);
+db.Emp.find().skip(5)pretty();
+db.Emp.find().skip(5).pretty();
+show databases();
+show databases;
+use TestDB
+show collection;
+show collection();
+show collections
+db.Student.insertMany([{name:"Awantika",email:"annamurmu09@gmail.com"},{name:"Kavita",}])
+show databases;
+use TestDB;
+db
+db.dropDatabase();
+show databases;
+show databases;
+use demodb
+show Collection();
+show Collections;
+db
+show.Collections;
+show collections
+db.users.find();
+db.users.find().pretty();
+show collections
+db.users.find().pretty();
+show databases;
+show databases;
+use blogs_app
+show databases;
+use blogs_app
+show collection;
+show collections;
+users.find().pretty();
+show databases;
+show databases;
+clear
+show databases;
+use blogs_app
+db
+db.dropDatabase();
+show databases;
+use demodb
+db
+db.dropDatabase();
+use mario
+db
+db.dropDatabase();
+use rea
+db
+db.dropDatabase();
+use restapis
+db
+db.dropDatabase();
+use test
+db
+db.dropDatabase();
+show collection();
+show databases;
+show databases;
+show dbs
+show dbs
+use restapi
+show dbs
+use restapi
+db.restapi.find().pretty();
+show collections
+show dbs
+use restapi
+db
+show collections
+show dbs
+use restapi
+show collections
+show users
+show data
+clear
+show dbs
+show databases;
+use Awantika
+bd
+db
+db.dropAwantika();
+db
+db.dropDatabase();
+use Deepak
+db
+db.dropDatabase();
+use USERDBMONGOOSE
+db
+db.dropDatabase();
+clear
+use assignment
+db
+db.dropDatabase();
+use blogs
+db
+db.dropDatabase();
+use mario
+db
+db.dropDatabase();
+use restapi
+db
+db.dropDatabase();
+use test
+db
+db.dropDatabase();
+show databases;
+show databases
+db
+db.dropDatabase();
+db
+use Deepak
+db.dropDatabase();
+use kavita
+db
+db.dropDatabase();
+use Todoapplication
+db.dropDatabase();
+show databases
+use xyz
+db
+db.dropDatabase();
+show databases
+use api_web_tech_assignment
+db
+db.dropDatabase();
+show databases
+use kavita
+db
+db.dropDatabase();
+show databases
+use readlinetodoapp
+db
+db.dropDatabase();
+use url
+db.dropDatabase();
+show databases
+use sexy
+db
+db.dropDatabase();
+use student
+db.dropDatabase();
+show databases
+use kavita
+db
+db.dropDatabase();
+show databases
+clear
+show databases
+use kavita
+db.dropdatabase();
+db.dropDatabase();
+show databases
+use rundi
+db.dropDatabase();
+show databases
+use restapi
+db.dropDatabase();
+show databases
+use anna
+db.dropDatabase();
+show databases
+show databases
+use Deepak
+db
+show collections
+show databases
+use Deepak
+db
+db.createCollection("Student")
+show databases
+use Deepak
+show collections
+show databases
+use Deepak
+db
+db.dropDatabase
+show databases
+use Deepak
+db
+db.dropDatabase();
+show databases
+use Awantika
+db
+db.createCollection("rundi")
+show collection
+show collections
+db.rundi.insert({name:"Awantika",salary:"16000",dept:"civil"})
+db.rundi.find()
+db.rundi.find().pretty();
+db.rundi.insert({name:"Awantika,salary:"25000",dept:"panting"},
+{name:"kavita,salary:"26000",dept:"ghumna"},
+{name:"murmu,salary:"27000",dept:"rundi"},
+{name:"janiffer,salary:"28000",dept:"mundi"},
+{name:"muskan,salary:"29000",dept:"sexy"},
+{name:"anna,salary:"35000",dept:"pexy"},
+{name:"mina,salary:"24000",dept:"texi"})
+db
+db.rundi.insert([{name:"Awantika,salary:"25000",dept:"panting"},
+{name:"kavita,salary:"26000",dept:"ghumna"},
+{name:"murmu,salary:"27000",dept:"rundi"},
+{name:"janiffer,salary:"28000",dept:"mundi"},
+{name:"muskan,salary:"29000",dept:"sexy"},
+{name:"anna,salary:"35000",dept:"pexy"},
+{name:"mina,salary:"24000",dept:"texi"}])
+db.rundi.insert([{name:"Awantika,salary:"25000",dept:"panting"},
+{name:"kavita,salary:"26000",dept:"ghumna"},
+{name:"murmu,salary:"27000",dept:"rundi"},
+{name:"janiffer,salary:"28000",dept:"mundi"},
+{name:"muskan,salary:"29000",dept:"sexy"},
+{name:"anna,salary:"35000",dept:"pexy"},
+{name:"mina,salary:"24000",dept:"texi"}])
+show databases
+use Awantika
+show collections
+db
+show collections
+db.rundi.insert({name:"Awantika,salary:"25000",dept:"panting"})
+db
+show collections
+db.rundi.insert([{name:"Awantika",salary:"25000",dept:"panting"},                 {name:"kavita",salary:"26000",dept:"ghumna"},                 {name:"murmu",salary:"27000",dept:"rundi"},                 {name:"janiffer",salary:"28000",dept:"mundi"},                 {name:"muskan",salary:"29000",dept:"sexy"},                 {name:"anna",salary:"35000",dept:"pexy"},                 {name:"mina",salary:"24000",dept:"texi"}])
+;
+db
+show collections
+db.rundi.find().pretty();
+db
+db.dropDatabase();
+show databases
+show databases
+use Deepak
+show collections
+db.createCollection("emp")
+db.emp.insert({name:"Deepak",age:"25",email:"deepak@gmail.com"})
+show collections
+db.emp.find().pretty();
+db
+db.emp.insert([{) "name" : Awantika, "age" : 35, "email" : awantika@gmail.com, "salary": 25000 }, { "name" : kavita, "age" : 45, "email" : kavita@gmail.com, "salary": 35000  },{ "name" : muskan, "age" : 27, "email" : muskan@gmail.com "salary": 45000  },{ "name" : mina, "age" : 29, "email" : mina@gmail.com, "salary": 55000  },{ "name" : puja, "age" : 31, "email" : puja@gmail.com, "salary": 65000  },{  "name" : shruti, "age" : 32, "email" : shruti@gmail.com, "salary": 40000 }])
+;
+clear
+show collwctions
+show collections
+show databases
+use Deepak
+show collectiona
+show collections
+db.emp.insert([{ "name" : Awantika, "age" : 35, "email" : awantika@gmail.com, "salary": 25000 }, { "name" : kavita, "age" : 45, "email" : kavita@gmail.com, "salary": 35000  },{ "name" : muskan, "age" : 27, "email" : muskan@gmail.com "salary": 45000  },{ "name" : mina, "age" : 29, "email" : mina@gmail.com, "salary": 55000  },{ "name" : puja, "age" : 31, "email" : puja@gmail.com, "salary": 65000  },{  "name" : shruti, "age" : 32, "email" : shruti@gmail.com, "salary": 40000 }])
+db.emp.insert([{ "name": Awantika, "age": 35, "email": awantika@gmail.com, "salary": 25000},             {"name": kavita, "age": 45, "email": kavita@gmail.com, "salary": 35000},              { "name": muskan, "age": 27, "email": muskan@gmail.com, "salary": 45000},              {"name": mina, "age": 29, "email": mina@gmail.com, "salary": 55000},              {"name": puja, "age": 31, "email": puja@gmail.com, "salary": 65000},              {"name": shruti, "age": 32,"email": shruti@gmail.com,"salary": 40000}])
+db.emp.insert([{name: "Awantika", age: "35", email: "awantika@gmail.com", salary: "25000"},             {name: "kavita", age: "45", email: "kavita@gmail.com", salary: "35000"},              {name: "muskan", age: "27", email: "muskan@gmail.com", salary: "45000"},              {name: "mina", age: "29", email: "mina@gmail.com", salary: "55000"},              {name: "puja", age: "31", email: "puja@gmail.com", salary: "65000"},              {name: "shruti", age: "32",email: "shruti@gmail.com",salary: "40000"}])
+db.emp.find().pretty();
+db.emp.find()
+db.emp.find({age:1})
+db.emp.find.sort({age:1})
+db.emp.find().sort({age:1})
+db.emp.find().sort({age:1}).pretty();
+db.emp.find().sort({age:-1}).pretty();
+show databases
+show databases
+use restapi
+show collectins
+show collections
+db.users.find().pretty();
+show collections
+use users
+show collections
+show databases
+use Contactmanagementsystem
+db.dropDatabase();
+show databases;
+use Deepak
+db.dropDatabase();
+use kavita
+db.dropDatabase();
+use Muskan
+db.dropDatabase();
+use awantika
+db.dropDatabase();
+show databases
+use underneath
+db.dropDatabase();
+use test
+db.dropDatabase();
+use rundi
+db.dropDatabase();
+use recipeapp
+db.dropDatabase();
+use practice
+db.dropDatabase();
+show databases
+use blood
+db.dropDatabase();
+use bloodbankapi
+db.dropDatabase();
+show databases
+use bloodbank
+db.bloodbank.find().pretty();
+show collections
+use bloodbank
+db.bloodbank.find()
+show databases
+use bloodbankapi
+db.bloodbankapi.find().pretty();

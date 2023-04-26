@@ -1,0 +1,18 @@
+[user]
+	email = deepak.groobizz@gmail.com
+	name = Deepak Kumar
+	gmail = deepakkr900678@gmail.com
+[pull]
+	ff = only
+[merge]
+	ff = false
+[core]
+	excludesfile = /Users/DeepakKumar/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /private/var/folders/4r/x8srgpxn6qgdn2y2ryq7lshr0000gn/T/AppTranslocation/1692F30F-AE0B-4232-8578-9EBF835C5A6D/d/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/DeepakKumar/.stCommitMsg

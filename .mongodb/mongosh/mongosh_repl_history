@@ -1,0 +1,84 @@
+exit
+db.comments.find()
+db.comments.insertOne({ 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 5, 'date': new Date() })
+db.comments.find()
+db.comments.insertMany([{ 'name':'Deepak', 'lang': 'JavaScript', 'member_since': 5 }, { 'name':'Awantika', 'lang': 'Java', 'member_since': 6 }, { 'name':'Kavita', 'lang': 'C++', 'member_since':7 }])
+db.comments.insertMany([{ 'name':'Deepak', 'lang': 'JavaScript', 'member_since': 5 }, { 'name':'Awantika', 'lang': 'Java', 'member_since': 6 }, { 'name':'Kavita', 'lang': 'C++', 'member_since': }])
+db.comments.insert({ 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 5 })
+show collections
+db.createCollection('comments')
+db.createcollection('comments')
+show collections
+show collection
+db
+use Deepak
+db
+use comments
+show dbs
+show db
+db.dropDatabase()
+db
+use CWBLOG
+db.dropDatabase()
+db
+use comments
+show dbs
+clear
+cleear
+show dbs
+db.comments.find()
+db.commands.updateOne({ name: 'shubham' }, { 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51 })
+db.commands.update({ name: 'shubham' }, { 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51 }, { upsert: true })
+db.commands.update({ name: 'shubham' }, { 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51 }, { upsert: tru })
+show dbs
+db.swd
+db
+clear
+db.commands.updateOne({ name: 'shubham' }, { 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51 })
+db.comments.updateOne({name:'shubham'})
+db.comments.find()
+show collections
+show collection
+db.commands.update({ 'name': 'Deepak' }, { 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51 })
+{'name':'Deepak', 'lang': 'JavaScript', 'member_since': 51, })
+db.commands.update({name:'Deepak},
+{'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51, })
+db.commands.update({'name': 'Deepak},
+{'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 51, })
+db.commands.update({name: 'Deepak},
+db.comments.find().sort({member_since:1})
+db.comments.find().sort({member_since:-1})
+db.comments.find({name:'Awantika'}).count()
+db.comments.find().count()
+db.comments.find().limit(1)
+db.comments.find().limit(2)
+db.comments.find()
+db.comments.find({lang:'C++'})
+db.comments.find({lang:C++})
+db.comments.find().pretty()
+db.comments.insertOne({ 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 5, 'date': 'NewDate' })
+db.comments.insert({ 'name':'Deepak', 'lang': 'JavaScript', 'member_since': 5 clear
+db.comments.insert({ 'name':'Deepak', 'lang': 'JavaScript', 'member_since': 5 clear
+db.comments.find().pretty()
+db.comments.find()
+db.collection.find()
+db.comments.insertMany([{ 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 5 }, { 'name': 'Awantika', 'lang': 'Java', 'member_since': 6 }, { 'name': 'Kavita', 'lang': 'C++', 'member_since': 7 }])
+db.comments.insert({ 'name': 'Deepak', 'lang': 'JavaScript', 'member_since': 5 })
+show collections
+db.comments.drop()
+show collections
+show collection
+db.createCollection('comments')
+show collections
+db
+use CWBLOG
+show dbs
+db
+db.dropDatabase()
+db
+use comments
+show dbs
+mongosh
+mongo
+bd.emp.insertOne({_id:1,name:"Amit Singh"})
+show dbs
